@@ -1,0 +1,6 @@
+{
+  "name": "Negro! I.A.gora? - Jogo Educacional de Consciência Racial e Saberes",
+  "description": "Jogo educacional interativo em formato de conversa focado na Consciência Racial, Valorização dos Saberes Negros e Indígenas e Combate ao Preconceito para estudantes do Ensino Fundamental II (GET / Rioeduca).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
